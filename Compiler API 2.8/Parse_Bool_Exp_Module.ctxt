@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Parse_Bool_Exp_Module
+comment0.text=\n\ Write\ a\ description\ of\ class\ Parse_Bool_Exp_Module\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=newString
+comment1.target=Parse_Bool_Exp_Module(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Parse_Bool_Exp_Module\n
+comment2.params=
+comment2.target=Boolean_Expression\ parse()
+numComments=3

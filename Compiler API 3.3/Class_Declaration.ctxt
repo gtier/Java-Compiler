@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Class_Declaration
+comment0.text=\n\ Write\ a\ description\ of\ class\ Class_Declaration\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=newIdentifier\ newInstanceVariables\ newConstructors\ newMethods\ parent
+comment1.target=Class_Declaration(Identifier,\ java.util.List,\ java.util.List,\ java.util.List,\ SymbolTable)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Class_Declaration\n
+numComments=2

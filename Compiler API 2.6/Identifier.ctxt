@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Identifier
+comment0.text=\n\ Write\ a\ description\ of\ class\ Indentifier\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=newIdentifier
+comment1.target=Identifier(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Indentifier\n
+comment2.params=str
+comment2.target=java.lang.String\ checkIfValid(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getIdentifier()
+numComments=4

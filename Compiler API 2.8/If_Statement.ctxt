@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=If_Statement
+comment0.text=\n\ Write\ a\ description\ of\ class\ If_Statement\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=newBoolExp\ newTrueStatement\ newParent
+comment1.target=If_Statement(Boolean_Expression,\ Statement,\ SymbolTable)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ If_Statement\n
+comment2.params=newBoolExp\ newTrueStatement\ newFalseStatement\ newParent
+comment2.target=If_Statement(Boolean_Expression,\ Statement,\ Statement,\ SymbolTable)
+comment3.params=
+comment3.target=void\ run()
+comment4.params=
+comment4.target=SymbolTable\ getSymTab()
+comment5.params=newParent
+comment5.target=void\ setParent(SymbolTable)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

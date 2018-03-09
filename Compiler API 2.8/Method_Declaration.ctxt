@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Method_Declaration
+comment0.text=\n\ Write\ a\ description\ of\ class\ Method_Declaration\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=newType\ newIdentifier\ newParameters\ newStatement\ parent
+comment1.target=Method_Declaration(Type,\ Identifier,\ Parameter_List,\ Statement,\ SymbolTable)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Method_Declaration\n
+comment2.params=inputs\ parent
+comment2.target=void\ call(java.util.List,\ SymbolTable)
+numComments=3

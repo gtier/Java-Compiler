@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Declaration_Statement
+comment0.text=\n\ Write\ a\ description\ of\ class\ Declaration_Statement\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=newName\ newValue\ newSymTab
+comment1.target=Declaration_Statement(java.lang.String,\ Expression,\ SymbolTable)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Declaration_Statement\n
+comment2.params=
+comment2.target=void\ run()
+comment3.params=
+comment3.target=SymbolTable\ getSymTab()
+comment4.params=newSymTab
+comment4.target=void\ setSymTab(SymbolTable)
+comment5.params=newParent
+comment5.target=void\ setParent(SymbolTable)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=newString
+comment0.target=Parser(java.lang.String)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Parser\n
+comment1.params=
+comment1.target=Parser()
+comment2.params=
+comment2.target=Numerical_Expression\ parseNumericalExpression()
+comment3.params=tempString
+comment3.target=Numerical_Expression\ recursiveParseNumericalExpression(java.lang.String)
+comment4.params=newString
+comment4.target=void\ setString(java.lang.String)
+numComments=5

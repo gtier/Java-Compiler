@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=And_Boolean_Expression
+comment0.text=\n\ Write\ a\ description\ of\ class\ And_Boolean_Expression\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=newLeftSide\ newRightSide
+comment1.target=And_Boolean_Expression(Boolean_Expression,\ Boolean_Expression)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ And_Boolean_Expression\n
+comment2.params=symTab
+comment2.target=java.lang.Boolean\ evaluate(SymbolTable)
+numComments=3

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=StatementList
+comment0.text=\n\ Write\ a\ description\ of\ class\ StatementList\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=StatementList()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ StatementList\n
+comment2.params=newStatementList
+comment2.target=StatementList(java.util.List)
+comment3.params=newStatement
+comment3.target=void\ add(Statement)
+comment4.params=
+comment4.target=void\ run()
+comment5.params=
+comment5.target=SymbolTable\ getSymTab()
+comment6.params=newParent
+comment6.target=void\ setParent(SymbolTable)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

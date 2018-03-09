@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Parse_Module
+comment0.text=\n\ Abstract\ class\ Parse_Module\ -\ write\ a\ description\ of\ the\ class\ here\n\n\ @author\ (your\ name\ here)\n\ @version\ (version\ number\ or\ date\ here)\n
+comment1.params=newString
+comment1.target=Parse_Module(java.lang.String)
+comment2.params=
+comment2.target=Parse_Module()
+comment3.params=newString
+comment3.target=Numerical_Expression\ parseNumExp(java.lang.String)
+comment4.params=newString
+comment4.target=Boolean_Expression\ parseBoolExp(java.lang.String)
+comment5.params=newString
+comment5.target=void\ setString(java.lang.String)
+numComments=6

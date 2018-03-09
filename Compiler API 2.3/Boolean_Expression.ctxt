@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Boolean_Expression
+comment0.text=\n\ Write\ a\ description\ of\ class\ BooleanExpression\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=newOperator\ newLeftSide\ newRightSide
+comment1.target=Boolean_Expression(java.lang.String,\ Expression,\ Expression)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ BooleanExpression\n
+comment2.params=symTab
+comment2.target=java.lang.Boolean\ evaluate(SymbolTable)
+comment3.params=operator\ leftContainer\ rightContainer\ classToUse
+comment3.target=java.lang.Boolean\ comparePrimitives(java.lang.String,\ Primitive_Container,\ Primitive_Container,\ java.lang.Class)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

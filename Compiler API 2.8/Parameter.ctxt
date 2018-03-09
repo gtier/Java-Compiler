@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Parameter
+comment0.text=\n\ Write\ a\ description\ of\ class\ Parameter\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=newType\ newIdentifier
+comment1.target=Parameter(Type,\ Identifier)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Parameter\n
+comment2.params=
+comment2.target=Type\ getType()
+comment3.params=
+comment3.target=Identifier\ getIdentifier()
+numComments=4

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Type
+comment0.text=\n\ Write\ a\ description\ of\ class\ Type\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=newType
+comment1.target=Type(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Type\n
+comment2.params=
+comment2.target=java.lang.Class\ getType()
+numComments=3

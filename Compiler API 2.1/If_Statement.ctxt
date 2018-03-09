@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=If_Statement
+comment0.text=\n\ Write\ a\ description\ of\ class\ If_Statement\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=newBoolExp\ newTrueStatement\ newSymTab
+comment1.target=If_Statement(Boolean_Expression,\ Statement,\ SymbolTable)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ If_Statement\n
+comment2.params=newBoolExp\ newTrueStatement\ newFalseStatement\ newSymTab
+comment2.target=If_Statement(Boolean_Expression,\ Statement,\ Statement,\ SymbolTable)
+comment3.params=
+comment3.target=void\ run()
+numComments=4

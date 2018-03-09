@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SymbolTable()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ SymbolTable\n
+comment1.params=newName\ newValue
+comment1.target=Entry\ addVal(java.lang.String,\ java.lang.Object)
+comment1.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\n
+comment2.params=name
+comment2.target=Entry\ deleteVal(java.lang.String)
+comment3.params=name\ newValue
+comment3.target=Entry\ updateVal(java.lang.String,\ java.lang.Object)
+comment4.params=name
+comment4.target=Entry\ getVal(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

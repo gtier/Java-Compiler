@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Parser
+comment0.text=\n\ Write\ a\ description\ of\ class\ Parser\ here.\n\ Can\ parse\ very\ large\ numerical\ expressions\n\ Give\ "(3+(5/(2^8)+9)*(10-9)/(17^(9-5))+10/(291098^2-(8091+2091)*(2123/28874*(2+2))))^(3+(5/(2^8)+9)*(10-9)/(17^(9-5))+10)"\ a\ try\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=newString
+comment1.target=Parser(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Parser\n
+comment2.params=
+comment2.target=Numerical_Expression\ parseNumericalExpression()
+comment3.params=tempString
+comment3.target=Numerical_Expression\ recursiveParseNumericalExpression(java.lang.String)
+numComments=4
